@@ -1,0 +1,41 @@
+body {
+    Background-color: #f0dbb9;
+    font-family: 'Times New Roman', serif;
+    text-align: center;
+}
+
+h3 {
+    Color: #402318;
+    Font-size: 20px;
+}
+
+h4 {
+    Background-color: #3A2119;
+    width: 30px;
+    height: 50px;
+    Border-radius: 5px;
+    Font-size: 20px;
+    Color: #f0dbb9;
+    Width: 110px;
+    padding: 5px 25px 5px 25px;
+
+}
+
+h2 {
+    border-radius: 30px 100px;
+    padding: 10px;
+    width: 100px;
+    color: white;
+    text-align: center;
+}
+
+
+#minhaImagem {
+    border: 2px solid rgb(255, 211, 129);
+    border-radius: 15px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
